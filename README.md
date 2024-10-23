@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 -->
 # 💫 About Me:
-I'm freshman student and interested in world of cybersecurity, programming, and all kinds of new path am learning.
+I'm freshman student and interested in world of cybersecurity, programming, and all kinds of new awesome path am learning.
 
 
 ## 🌐 Socials:
