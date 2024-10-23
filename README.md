@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **0xN7y/0xn7y** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
